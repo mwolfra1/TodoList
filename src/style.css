@@ -1,0 +1,14 @@
+h1 {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  font-family: "pf-pixelscript";
+  color: rgb(86, 86, 86);
+  font-size: 2.5rem;
+}
+body {
+  font-family: "Carrois Gothic";
+  font-size: 1.2rem;
+}
+
+
