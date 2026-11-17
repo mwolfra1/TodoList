@@ -2,6 +2,6 @@
     import Todo from './Todo.svelte';
 </script>
 
-<h1>My Todo App</h1>
+<h1>My To-Do List</h1>
 
 <Todo />
